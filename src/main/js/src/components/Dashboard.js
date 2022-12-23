@@ -20,6 +20,8 @@ import UserSelect from "./UserSelect";
 import Post from "./Post";
 import logo from "../img/bird.png"
 
+//Designed by vectorstock (Image #35521609 at VectorStock.com)
+
 function Dashboard() {
     const [userName, setUserName] = useState('')
     const [users, setUsers] = useState([])
